@@ -8,5 +8,7 @@
 ## X-Donate: PayPal:warmexx AT wow-neighbours DOT com
 ## X-Website: https://github.com/warmexx/armory-recipes
 ## X-Curse-Project-ID: 902217
+## X-WoWI-ID: 26619
+## X-Wago-ID: n6VPY3Gd
 
 ArmoryRecipes.lua
