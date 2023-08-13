@@ -1,0 +1,12 @@
+## Interface: 100105
+## Title: Armory Recipes
+## Notes: Adds information about where a reagent is used by whom to its tooltip
+## Version: @project-version@
+## Author: Warmexx [Neighbours]
+## Dependencies: Armory
+## X-Date: @project-date-iso@
+## X-Donate: PayPal:warmexx AT wow-neighbours DOT com
+## X-Website: https://github.com/warmexx/armory-recipes
+## X-Curse-Project-ID: 902217
+
+ArmoryRecipes.lua
