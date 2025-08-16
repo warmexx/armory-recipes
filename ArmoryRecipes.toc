@@ -1,4 +1,4 @@
-## Interface: 110107
+## Interface: 110200
 ## Title: Armory Recipes
 ## Notes: Adds information about where a reagent is used by whom to its tooltip
 ## Version: @project-version@
